@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 import {
     FiBarChart,
+<<<<<<< Updated upstream
+=======
+    FiChevronDown,
+>>>>>>> Stashed changes
     FiDollarSign,
     FiHome,
     FiMonitor,
