@@ -1,5 +1,4 @@
-{
-  "Women Hygiene Products Bathrooms": [
+[
     {
       "Building": "Currie Gym",
       "Floor": "basement",
@@ -775,5 +774,4 @@
       "Dispenser": false,
       "Basket": true
     }
-  ]
-}
+]
