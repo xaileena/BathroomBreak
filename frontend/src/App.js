@@ -3,6 +3,7 @@ import './App.css';
 import {APIProvider, Map} from '@vis.gl/react-google-maps';
 console.log(process.env.REACT_APP_GOOGLE_API_KEY);
 
+
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
         defaultZoom={17}
         gestureHandling={'greedy'}
         disableDefaultUI={true}
+        mapId={'3b1974584796597b'}
       />
       </APIProvider>
       <header className="App-header">
