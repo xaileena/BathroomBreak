@@ -1,777 +1,777 @@
 [
-    {
-      "Building": "Currie Gym",
-      "Floor": "basement",
-      "Address": "475 ave des Pins ouest",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Currie Gym",
-      "Floor": "ground",
-      "Address": "475 ave des Pins ouest",
-      "Dispenser": true,
-      "Basket": true
-    },
-    {
-      "Building": "Currie Gym",
-      "Floor": "1",
-      "Address": "475 ave des Pins ouest",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Currie Gym",
-      "Floor": "2",
-      "Address": "475 ave des Pins ouest",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Currie Gym",
-      "Floor": "3",
-      "Address": "475 ave des Pins ouest",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Education Building",
-      "Floor": "1",
-      "Address": "3700 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Education Building",
-      "Floor": "2",
-      "Address": "3700 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Education Building",
-      "Floor": "3",
-      "Address": "3700 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Education Building",
-      "Floor": "4",
-      "Address": "3700 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Education Building",
-      "Floor": "5",
-      "Address": "3700 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Education Building",
-      "Floor": "6",
-      "Address": "3700 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Chancellor Day Hall",
-      "Floor": "basement",
-      "Address": "3644 rue Peel",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Chancellor Day Hall",
-      "Floor": "ground",
-      "Address": "3644 rue Peel",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Chancellor Day Hall",
-      "Floor": "2",
-      "Address": "3644 rue Peel",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Chancellor Day Hall",
-      "Floor": "3",
-      "Address": "3644 rue Peel",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Chancellor Day Hall",
-      "Floor": "4",
-      "Address": "3644 rue Peel",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Chancellor Day Hall",
-      "Floor": "5",
-      "Address": "3644 rue Peel",
-      "Dispenser": true,
-      "Basket": true
-    },
-    {
-      "Building": "McIntyre Medical",
-      "Floor": "1",
-      "Address": "3655 promenade Sir William Osler",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "McIntyre Medical",
-      "Floor": "2",
-      "Address": "3655 promenade Sir William Osler",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "McIntyre Medical",
-      "Floor": "3",
-      "Address": "3655 promenade Sir William Osler",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "McIntyre Medical",
-      "Floor": "5",
-      "Address": "3655 promenade Sir William Osler",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Law Library",
-      "Floor": "1",
-      "Address": "3660 rue Peel",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Law Library",
-      "Floor": "2",
-      "Address": "3660 rue Peel",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Law Library",
-      "Floor": "3",
-      "Address": "3660 rue Peel",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Law Library",
-      "Floor": "4",
-      "Address": "3660 rue Peel",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Law Library",
-      "Floor": "5",
-      "Address": "3660 rue Peel",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "ground",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "2",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "5",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
+  {
+    "Building": "Currie Gymnasium",
+    "Floor": "basement",
+    "Address": "475 ave des Pins ouest",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Currie Gymnasium",
+    "Floor": "ground",
+    "Address": "475 ave des Pins ouest",
+    "Dispenser": true,
+    "Basket": true
+  },
+  {
+    "Building": "Currie Gymnasium",
+    "Floor": "1",
+    "Address": "475 ave des Pins ouest",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Currie Gymnasium",
+    "Floor": "2",
+    "Address": "475 ave des Pins ouest",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Currie Gymnasium",
+    "Floor": "3",
+    "Address": "475 ave des Pins ouest",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Education Building",
+    "Floor": "1",
+    "Address": "3700 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Education Building",
+    "Floor": "2",
+    "Address": "3700 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Education Building",
+    "Floor": "3",
+    "Address": "3700 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Education Building",
+    "Floor": "4",
+    "Address": "3700 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Education Building",
+    "Floor": "5",
+    "Address": "3700 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Education Building",
+    "Floor": "6",
+    "Address": "3700 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Floor": "basement",
+    "Address": "3644 rue Peel",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Floor": "ground",
+    "Address": "3644 rue Peel",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Floor": "2",
+    "Address": "3644 rue Peel",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Floor": "3",
+    "Address": "3644 rue Peel",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Floor": "4",
+    "Address": "3644 rue Peel",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Floor": "5",
+    "Address": "3644 rue Peel",
+    "Dispenser": true,
+    "Basket": true
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Floor": "1",
+    "Address": "3655 promenade Sir William Osler",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Floor": "2",
+    "Address": "3655 promenade Sir William Osler",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Floor": "3",
+    "Address": "3655 promenade Sir William Osler",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Floor": "5",
+    "Address": "3655 promenade Sir William Osler",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Nahum Gelber Law Library",
+    "Floor": "1",
+    "Address": "3660 rue Peel",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Nahum Gelber Law Library",
+    "Floor": "2",
+    "Address": "3660 rue Peel",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Nahum Gelber Law Library",
+    "Floor": "3",
+    "Address": "3660 rue Peel",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Nahum Gelber Law Library",
+    "Floor": "4",
+    "Address": "3660 rue Peel",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Nahum Gelber Law Library",
+    "Floor": "5",
+    "Address": "3660 rue Peel",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "ground",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "2",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "5",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
 
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "6",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "6",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
 
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "7",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "7",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
 
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "8",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "8",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
 
-    {
-      "Building": "Stewart Biology Building",
-      "Floor": "1",
-      "Address": "1205 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
+  {
+    "Building": "Stewart Biology Building",
+    "Floor": "1",
+    "Address": "1205 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
 
-    {
-      "Building": "Brown Building",
-      "Floor": "2",
-      "Address": "3600 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Brown Building",
-      "Floor": "3",
-      "Address": "3600 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Brown Building",
-      "Floor": "5",
-      "Address": "3600 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "University Centre",
-      "Floor": "basement",
-      "Address": "3480 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "University Centre",
-      "Floor": "ground",
-      "Address": "3480 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "University Centre",
-      "Floor": "2",
-      "Address": "3480 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "University Centre",
-      "Floor": "3",
-      "Address": "3480 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "University Centre",
-      "Floor": "4",
-      "Address": "3480 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McLennan Library",
-      "Floor": "basement",
-      "Address": "3459 McTavish Street",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McLennan Library",
-      "Floor": "2",
-      "Address": "3459 McTavish Street",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McLennan Library",
-      "Floor": "3",
-      "Address": "3459 McTavish Street",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McLennan Library",
-      "Floor": "5",
-      "Address": "3459 McTavish Street",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McLennan Library",
-      "Floor": "6",
-      "Address": "3459 McTavish Street",
-      "Dispenser": true,
-      "Basket": true
-    },
-    {
-      "Building": "Redpath Library",
-      "Floor": "basement",
-      "Address": "3459 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Redpath Library",
-      "Floor": "ground",
-      "Address": "3459 rue McTavish",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Redpath Library",
-      "Floor": "2",
-      "Address": "3459 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Redpath Library",
-      "Floor": "3",
-      "Address": "3459 rue McTavish",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Bronfman",
-      "Floor": "2",
-      "Address": "1001 rue Sherbrooke Ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Bronfman",
-      "Floor": "4",
-      "Address": "1001 rue Sherbrooke Ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "3610 McTavish Street",
-      "Floor": "3",
-      "Address": "3610 McTavish Street",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "basement",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "1",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "2",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "3",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "4",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "6",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "7",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "8",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "9",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Leacock",
-      "Floor": "5",
-      "Address": "855 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Arts Building",
-      "Floor": "basement",
-      "Address": "853 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Ferrier",
-      "Floor": "4",
-      "Address": "840 ave du Docteur-Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "MacDonald Harrington",
-      "Floor": "ground",
-      "Address": "815 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "MacDonald Harrington",
-      "Floor": "2",
-      "Address": "815 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "MacDonald Harrington",
-      "Floor": "5",
-      "Address": "815 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Adams",
-      "Floor": "ground",
-      "Address": "3450 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Adams",
-      "Floor": "ground",
-      "Address": "3450 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Adams",
-      "Floor": "2",
-      "Address": "3450 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Burnside",
-      "Floor": "2",
-      "Address": "805 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Burnside",
-      "Floor": "3",
-      "Address": "805 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Burnside",
-      "Floor": "5",
-      "Address": "805 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Burnside",
-      "Floor": "12",
-      "Address": "805 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Maas",
-      "Floor": "basement",
-      "Address": "801 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Maas",
-      "Floor": "ground",
-      "Address": "801 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "basement",
-      "Address": "3480 rue University",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "1",
-      "Address": "3480 rue University",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "2",
-      "Address": "3480 rue University",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "3",
-      "Address": "3480 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "4",
-      "Address": "3480 rue University",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "5",
-      "Address": "3480 rue University",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "McConnell Engineering",
-      "Floor": "6",
-      "Address": "3480 rue University",
-      "Dispenser": true,
-      "Basket": false
-    },
-    {
-      "Building": "Wong",
-      "Floor": "basement",
-      "Address": "3610 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Wong",
-      "Floor": "1",
-      "Address": "3610 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Wong",
-      "Floor": "2",
-      "Address": "3610 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Trottier",
-      "Floor": "basement",
-      "Address": "3630 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Trottier",
-      "Floor": "1",
-      "Address": "3630 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Trottier",
-      "Floor": "5",
-      "Address": "3630 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Strathcona Dentistry Building",
-      "Floor": "basement",
-      "Address": "3640 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Strathcona Dentistry Building",
-      "Floor": "1",
-      "Address": "3640 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Duff Medical",
-      "Floor": "ground",
-      "Address": "3775 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Duff Medical",
-      "Floor": "2",
-      "Address": "3775 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Rutherford",
-      "Floor": "ground",
-      "Address": "3600 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Rutherford",
-      "Floor": "2",
-      "Address": "3600 rue University",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Genome Building",
-      "Floor": "5",
-      "Address": "740 rue Docteur Penfield",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Strathcona Music Building",
-      "Floor": "1",
-      "Address": "555 rue Sherbrooke oues",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Strathcona Music Building",
-      "Floor": "2",
-      "Address": "555 rue Sherbrooke oues",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Strathcona Music Building",
-      "Floor": "3",
-      "Address": "555 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Strathcona Music Building",
-      "Floor": "4",
-      "Address": "555 rue Sherbrooke oues",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Elizabeth Wirth Music Building",
-      "Floor": "2",
-      "Address": "527 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Elizabeth Wirth Music Building",
-      "Floor": "3",
-      "Address": "527 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Elizabeth Wirth Music Building",
-      "Floor": "4",
-      "Address": "527 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Elizabeth Wirth Music Building",
-      "Floor": "5",
-      "Address": "527 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Sherbrooke 680",
-      "Floor": "2",
-      "Address": "",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Sherbrooke 680",
-      "Floor": "3",
-      "Address": "680 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Sherbrooke 680",
-      "Floor": "4",
-      "Address": "680 rue Sherbrooke ouest",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Schulich Library",
-      "Floor": "2",
-      "Address": "809 Sherbrooke St",
-      "Dispenser": false,
-      "Basket": true
-    },
-    {
-      "Building": "Schulich Library",
-      "Floor": "3",
-      "Address": "809 Sherbrooke St",
-      "Dispenser": false,
-      "Basket": true
-    }
+  {
+    "Building": "Brown Student Service Building",
+    "Floor": "2",
+    "Address": "3600 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Brown Student Service Building",
+    "Floor": "3",
+    "Address": "3600 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Brown Student Service Building",
+    "Floor": "5",
+    "Address": "3600 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "University Centre (Students' Society of McGill University Building)",
+    "Floor": "basement",
+    "Address": "3480 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "University Centre (Students' Society of McGill University Building)",
+    "Floor": "ground",
+    "Address": "3480 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "University Centre (Students' Society of McGill University Building)",
+    "Floor": "2",
+    "Address": "3480 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "University Centre (Students' Society of McGill University Building)",
+    "Floor": "3",
+    "Address": "3480 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "University Centre (Students' Society of McGill University Building)",
+    "Floor": "4",
+    "Address": "3480 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Floor": "basement",
+    "Address": "3459 McTavish Street",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Floor": "2",
+    "Address": "3459 McTavish Street",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Floor": "3",
+    "Address": "3459 McTavish Street",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Floor": "5",
+    "Address": "3459 McTavish Street",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Floor": "6",
+    "Address": "3459 McTavish Street",
+    "Dispenser": true,
+    "Basket": true
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Floor": "basement",
+    "Address": "3459 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Floor": "ground",
+    "Address": "3459 rue McTavish",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Floor": "2",
+    "Address": "3459 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Floor": "3",
+    "Address": "3459 rue McTavish",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Bronfman Building",
+    "Floor": "2",
+    "Address": "1001 rue Sherbrooke Ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Bronfman Building",
+    "Floor": "4",
+    "Address": "1001 rue Sherbrooke Ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "3610 McTavish Street",
+    "Floor": "3",
+    "Address": "3610 McTavish Street",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "basement",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "1",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "2",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "3",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "4",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "6",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "7",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "8",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "9",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Floor": "5",
+    "Address": "855 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Arts Building",
+    "Floor": "basement",
+    "Address": "853 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Ferrier Building",
+    "Floor": "4",
+    "Address": "840 ave du Docteur-Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Macdonald Harrington Building",
+    "Floor": "ground",
+    "Address": "815 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Macdonald Harrington Building",
+    "Floor": "2",
+    "Address": "815 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Macdonald Harrington Building",
+    "Floor": "5",
+    "Address": "815 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Adams Building",
+    "Floor": "ground",
+    "Address": "3450 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Adams Building",
+    "Floor": "ground",
+    "Address": "3450 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Adams Building",
+    "Floor": "2",
+    "Address": "3450 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Burnside Hall",
+    "Floor": "2",
+    "Address": "805 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Burnside Hall",
+    "Floor": "3",
+    "Address": "805 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Burnside Hall",
+    "Floor": "5",
+    "Address": "805 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Burnside Hall",
+    "Floor": "12",
+    "Address": "805 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Maass Chemisty Building",
+    "Floor": "basement",
+    "Address": "801 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Maass Chemisty Building",
+    "Floor": "ground",
+    "Address": "801 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "basement",
+    "Address": "3480 rue University",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "1",
+    "Address": "3480 rue University",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "2",
+    "Address": "3480 rue University",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "3",
+    "Address": "3480 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "4",
+    "Address": "3480 rue University",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "5",
+    "Address": "3480 rue University",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Floor": "6",
+    "Address": "3480 rue University",
+    "Dispenser": true,
+    "Basket": false
+  },
+  {
+    "Building": "Wong Building",
+    "Floor": "basement",
+    "Address": "3610 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Wong Building",
+    "Floor": "1",
+    "Address": "3610 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Wong Building",
+    "Floor": "2",
+    "Address": "3610 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Trottier Building",
+    "Floor": "basement",
+    "Address": "3630 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Trottier Building",
+    "Floor": "1",
+    "Address": "3630 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Trottier Building",
+    "Floor": "5",
+    "Address": "3630 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Strathcona Anatomy and Dentistry Building",
+    "Floor": "basement",
+    "Address": "3640 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Strathcona Anatomy and Dentistry Building",
+    "Floor": "1",
+    "Address": "3640 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Duff Medical Building",
+    "Floor": "ground",
+    "Address": "3775 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Duff Medical Building",
+    "Floor": "2",
+    "Address": "3775 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Rutherford Physics Building",
+    "Floor": "ground",
+    "Address": "3600 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Rutherford Physics Building",
+    "Floor": "2",
+    "Address": "3600 rue University",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Genome",
+    "Floor": "5",
+    "Address": "740 rue Docteur Penfield",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Floor": "1",
+    "Address": "555 rue Sherbrooke oues",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Floor": "2",
+    "Address": "555 rue Sherbrooke oues",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Floor": "3",
+    "Address": "555 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Floor": "4",
+    "Address": "555 rue Sherbrooke oues",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Floor": "2",
+    "Address": "527 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Floor": "3",
+    "Address": "527 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Floor": "4",
+    "Address": "527 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Floor": "5",
+    "Address": "527 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Sherbrooke 680",
+    "Floor": "2",
+    "Address": "",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Sherbrooke 680",
+    "Floor": "3",
+    "Address": "680 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Sherbrooke 680",
+    "Floor": "4",
+    "Address": "680 rue Sherbrooke ouest",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Schulich Library Library of Physical Sciences, Life Sciences",
+    "Floor": "2",
+    "Address": "809 Sherbrooke St",
+    "Dispenser": false,
+    "Basket": true
+  },
+  {
+    "Building": "Schulich Library Library of Physical Sciences, Life Sciences",
+    "Floor": "3",
+    "Address": "809 Sherbrooke St",
+    "Dispenser": false,
+    "Basket": true
+  }
 ]
