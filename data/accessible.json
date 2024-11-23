@@ -1,112 +1,112 @@
 [
-    {
-        "Building" : "Adams Building",
-        "Address" : "3450 rue University",
-        "Floor" : ["Ground", "1"]
-    },
-    {
-        "Building" : "Armstrong Building",
-        "Address" : "3420 rue McTavish",
-        "Floor" : ["Ground"]
-    },
-    {
-        "Building" : "Bronfman Building",
-        "Address" : "1001 rue Sherbrooke Ouest",
-        "Floor" : ["1, 5"]
-    },
-    {
-        "Building" : "Brown Student Service Building",
-        "Address" : "3600 rue McTavish",
-        "Floor" : ["2, 3, 4, 5"]
-    },
-    {
-        "Building" : "Burnside Hall",
-        "Address" : "805 rue Sherbrooke Ouest",
-        "Floor" : ["Basement"]
-    },
-    {
-        "Building" : "Department of Jewish Studies",
-        "Address" : "3438 rue McTavish",
-        "Floor" : ["1"]
-    },
-    {
-        "Building" : "Department of Linguistics",
-        "Address" : "1085 av du Docteur-Penfield",
-        "Floor" : ["Ground"]
-    },
-    {
-        "Building" : "Elizabeth Wirth Music Building (Schulich School of Music)",
-        "Address" : "527 rue Sherbrooke Ouest",
-        "Floor" : ["Ground, 2, 3, 4, 5, 6, 7, 8"]
-    },
-    {
-        "Building": "Genome",
-        "Address": "740 av du Docteur-Penfield",
-        "Floor": ["2, 3, 5, 6, 7"]
-    },
-    {
-        "Building": "Maass Chemistry Building",
-        "Address": "801 rue Sherbrooke Ouest",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "Macdonald Engineering",
-        "Address": "817 rue Sherbrooke Ouest",
-        "Floor": ["5"]
-    },
-    {
-        "Building": "McIntyre Medical Sciences Building",
-        "Address": "3655 promenade Sir William Osler",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "McLennan Library Building",
-        "Address": "3459 rue McTavish",
-        "Floor": ["6"]
-    },
-    {
-        "Building": "Morrice Hall",
-        "Address": "3485 rue McTavish",
-        "Floor": ["Ground"]
-    },
-    {
-        "Building": "New Chancellor Day Hall",
-        "Address": "3644 rue Peel",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "Peterson Hall",
-        "Address": "3460 rue McTavish",
-        "Floor": ["Ground"]
-    },
-    {
-        "Building": "Redpath Library Building",
-        "Address": "3459 rue McTavish",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "School of Information Studies",
-        "Address": "3661 rue Peel",
-        "Floor": ["1"]
-    },
-    {
-        "Building": "Schulich Library of Physical Sciences, Life Sciences",
-        "Address": "809 rue Sherbrooke Ouest",
-        "Floor": ["4, 5, 6"]
-    },
-    {
-        "Building": "Strathcona Music Building",
-        "Address": "555 rue Sherbrooke Ouest",
-        "Floor": ["1, 3"]
-    },
-    {
-        "Building": "Trottier Building",
-        "Address": "3630 rue University",
-        "Floor": ["1, 2, 3, 4, 5"]
-    },
-    {
-        "Building": "Wilson Hall",
-        "Address": "3506 rue University",
-        "Floor": ["1"]
-    }
+  {
+    "Building": "Adams Building",
+    "Address": "3450 rue University",
+    "Floor": ["Ground", "1"]
+  },
+  {
+    "Building": "Armstrong Building",
+    "Address": "3420 rue McTavish",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "Bronfman Building",
+    "Address": "1001 rue Sherbrooke Ouest",
+    "Floor": ["1, 5"]
+  },
+  {
+    "Building": "Brown Student Service Building",
+    "Address": "3600 rue McTavish",
+    "Floor": ["2, 3, 4, 5"]
+  },
+  {
+    "Building": "Burnside Hall",
+    "Address": "805 rue Sherbrooke Ouest",
+    "Floor": ["Basement"]
+  },
+  {
+    "Building": "Department of Jewish Studies",
+    "Address": "3438 rue McTavish",
+    "Floor": ["1"]
+  },
+  {
+    "Building": "Department of Linguistics",
+    "Address": "1085 av du Docteur-Penfield",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Address": "527 rue Sherbrooke Ouest",
+    "Floor": ["Ground, 2, 3, 4, 5, 6, 7, 8"]
+  },
+  {
+    "Building": "Genome",
+    "Address": "740 av du Docteur-Penfield",
+    "Floor": ["2, 3, 5, 6, 7"]
+  },
+  {
+    "Building": "Maass Chemistry Building",
+    "Address": "801 rue Sherbrooke Ouest",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "Macdonald Engineering",
+    "Address": "817 rue Sherbrooke Ouest",
+    "Floor": ["5"]
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Address": "3655 promenade Sir William Osler",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Address": "3459 rue McTavish",
+    "Floor": ["6"]
+  },
+  {
+    "Building": "Morrice Hall",
+    "Address": "3485 rue McTavish",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Address": "3644 rue Peel",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "Peterson Hall",
+    "Address": "3460 rue McTavish",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Address": "3459 rue McTavish",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "School of Information Studies",
+    "Address": "3661 rue Peel",
+    "Floor": ["1"]
+  },
+  {
+    "Building": "Schulich Library of Physical Sciences, Life Sciences",
+    "Address": "809 rue Sherbrooke Ouest",
+    "Floor": ["4, 5, 6"]
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Address": "555 rue Sherbrooke Ouest",
+    "Floor": ["1, 3"]
+  },
+  {
+    "Building": "Trottier Building",
+    "Address": "3630 rue University",
+    "Floor": ["1, 2, 3, 4, 5"]
+  },
+  {
+    "Building": "Wilson Hall",
+    "Address": "3506 rue University",
+    "Floor": ["1"]
+  }
 ]

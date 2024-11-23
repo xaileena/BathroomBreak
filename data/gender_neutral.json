@@ -1,277 +1,277 @@
 [
-    {
-        "Building": "Adams Building",
-        "Address": "3450 rue University",
-        "Floor": ["Ground", "1", "3", "4"]
-    },
-    {
-        "Building": "Armstrong Building",
-        "Address": "3420 rue McTavish",
-        "Floor": ["Ground", "1", "2", "3"]
-    },
-    {
-        "Building": "Birks Building",
-        "Address": "3520 rue University",
-        "Floor": ["Ground, 3"]
-    },
-    {
-        "Building": "Bronfman Building",
-        "Address": "1001 rue Sherbrooke Ouest",
-        "Floor": ["Basement", "Ground", "3", "4", "5", "6"]
-    },
-    {
-        "Building": "Brown Student Service Building",
-        "Address": "3600 rue McTavish",
-        "Floor": ["2, 3, 4, 5"]
-    },
-    {
-        "Building": "Burnside Hall",
-        "Address": "805 rue Sherbrooke Ouest",
-        "Floor": ["Basement, 1, 6"]
-    },
-    {
-        "Building": "Charles Meredith House",
-        "Address": "1130 av des Pins ouest",
-        "Floor": ["Basement"]
-    },
-    {
-        "Building": "Currie Gymnasium",
-        "Address": "1130 av des Pins ouest",
-        "Floor": ["Ground, 2, 3"]
-    },
-    {
-        "Building": "Davis House",
-        "Address": "3654 promenade Sir William Osler",
-        "Floor": ["Ground"]
-    },
-    {
-        "Building": "Dawson Hall",
-        "Address": "853 rue Sherbrooke Ouest",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "Department of East Asian Studies",
-        "Address": "3434 rue McTavish",
-        "Floor": ["1, 3"]
-    },
-    {
-        "Building": "Department of Family Medicine",
-        "Address": "517 av des Pins ouest",
-        "Floor": ["Ground, 1, 2"]
-    },
-    {
-        "Building": "Department of Jewish Studies",
-        "Address": "3438 rue McTavish",
-        "Floor": ["1, 2"]
-    },
-    {
-        "Building": "Department of Linguistics",
-        "Address": "1085 av du Docteur-Penfield",
-        "Floor": ["Ground, 1, 2, 3"]
-    },
-    {
-        "Building": "Department of Oncology",
-        "Address": "546 av des Pins Ouest",
-        "Floor": ["1, 2, 3"]
-    },
-    {
-        "Building": "Department of Social Studies of Medicine",
-        "Address": "3647 rue Peel",
-        "Floor": ["1, 3"]
-    },
-    {
-        "Building": "Duff Medical Building",
-        "Address": "3775 rue University",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "Education Building",
-        "Address": "3700 rue McTavish",
-        "Floor": ["Basement"]
-    },
-    {
-        "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
-        "Address": "527 rue Sherbrooke Ouest",
-        "Floor": ["Ground, 2, 3, 4, 5, 6, 7, 8"]
-    },
-    {
-        "Building": "Faculty Club",
-        "Address": "3450 rue McTavish",
-        "Floor": ["1, 3"]
-    },
-    {
-        "Building": "Faculty of Medicine",
-        "Address": "3605 rue de la Montagne",
-        "Floor": ["1, 2, 3"]
-    },
-    {
-        "Building": "Faculty of Medicine",
-        "Address": "3605 rue de la Montagne",
-        "Floor": ["1, 2, 3"]
-    },
-    {
-        "Building": "Ferrier Building",
-        "Address": "840 av du Doctor-Penfield",
-        "Floor": ["1"]
-    },
-    {
-        "Building": "First People’s House",
-        "Address": "3505 rue Peel",
-        "Floor": ["Ground"]
-    },
-    {
-        "Building": "Genome",
-        "Address": "740 av du Docteur-Penfield",
-        "Floor": ["2, 3, 4, 5, 6, 7"]
-    },
-    {
-        "Building": "Institute for Gender, Sexuality, and Feminist Studies",
-        "Address": "3487 rue Peel",
-        "Floor": ["2"]
-    },
-    {
-        "Building": "James Administration Building",
-        "Address": "845 rue Sherbrooke Ouest",
-        "Floor": ["1, 2, 3"]
-    },
-    {
-        "Building": "Leacock, Stephen, Building",
-        "Address": "855 rue Sherbrooke Ouest",
-        "Floor": ["5"]
-    },
-    {
-        "Building": "Ludmer Building",
-        "Address": "1033 av des Pins Ouest",
-        "Floor": ["1, 4"]
-    },
-    {
-        "Building": "Maass Chemistry Building",
-        "Address": "801 rue Sherbrooke Ouest",
-        "Floor": ["2, 3, 4"]
-    },
-    {
-        "Building": "Macdonald Engineering",
-        "Address": "817 rue Sherbrooke Ouest",
-        "Floor": ["1, 3, 5"]
-    },
-    {
-        "Building": "Macdonald Harrington Building",
-        "Address": "815 rue Sherbrooke Ouest",
-        "Floor": ["5"]
-    },
-    {
-        "Building": "Martlet House",
-        "Address": "1430 rue Peel",
-        "Floor": ["1"]
-    },
-    {
-        "Building": "McCall MacBain Arts Building",
-        "Address": "853 rue Sherbrooke Ouest",
-        "Floor": ["Basement"]
-    },
-    {
-        "Building": "McConnell Engineering Building",
-        "Address": "3480 rue University",
-        "Floor": ["3, 6, 8"]
-    },
-    {
-        "Building": "McGill Association of Continuing Education",
-        "Address": "3437 rue Peel",
-        "Floor": ["1, 2, 3, 4"]
-    },
-    {
-        "Building": "McIntyre Medical Sciences Building",
-        "Address": "3655 promenade Sir William Osler",
-        "Floor": ["3, 4"]
-    },
-    {
-        "Building": "McLennan Library Building",
-        "Address": "3459 rue McTavish",
-        "Floor": ["Basement, 1, 3"]
-    },
-    {
-        "Building": "McTavish 3430",
-        "Address": "3430 rue McTavish",
-        "Floor": ["1, 2"]
-    },
-    {
-        "Building": "Morrice Hall",
-        "Address": "3485 rue McTavish",
-        "Floor": ["Ground, 3"]
-    },
-    {
-        "Building": "New Chancellor Day Hall",
-        "Address": "3644 rue Peel",
-        "Floor": ["2, 3, 4, 5, 6"]
-    },
-    {
-        "Building": "Peterson Hall",
-        "Address": "3460 rue McTavish",
-        "Floor": ["Ground"]
-    },
-    {
-        "Building": "Pulp and Paper Building",
-        "Address": "3420 rue University",
-        "Floor": ["Ground, 1"]
-    },
-    {
-        "Building": "Purvis Hall",
-        "Address": "1020 av des Pins Ouest",
-        "Floor": ["3"]
-    },
-    {
-        "Building": "Redpath Library Building",
-        "Address": "3459 rue McTavish",
-        "Floor": ["1, 3"]
-    },
-    {
-        "Building": "Rutherford Physics Building",
-        "Address": "3600 rue University",
-        "Floor": ["Ground, 1"]
-    },
-    {
-        "Building": "School of Environment",
-        "Address": "3534 rue University",
-        "Floor": ["2, 3"]
-    },
-    {
-        "Building": "School of Information Studies",
-        "Address": "3661 rue Peel",
-        "Floor": ["1, 2, 3"]
-    },
-    {
-        "Building": "Schulich Library of Physical Sciences, Life Sciences",
-        "Address": "809 rue Sherbrooke Ouest",
-        "Floor": ["1, 3, 4, 5, 6"]
-    },
-    {
-        "Building": "Sports Complex - McGill University Athletics",
-        "Address": "475 Pine Ave W, Montreal",
-        "Floor": ["Ground, 3"]
-    },
-    {
-        "Building": "Strathcona Anatomy and Dentistry Building",
-        "Address": "3640 rue University",
-        "Floor": ["Basement, 1, 3"]
-    },
-    {
-        "Building": "Strathcona Music Building",
-        "Address": "555 rue Sherbrooke Ouest",
-        "Floor": ["1, 3"]
-    },
-    {
-        "Building": "Trottier Building",
-        "Address": "3630 rue University",
-        "Floor": ["1, 2, 3, 4, 5"]
-    },
-    {
-        "Building": "Wilson Hall",
-        "Address": "3506 rue University",
-        "Floor": ["1, 2"]
-    },    
-    {
-        "Building": "Wong Building",
-        "Address": "3610 rue University",
-        "Floor": ["5, 7"]
-    }
+  {
+    "Building": "Adams Building",
+    "Address": "3450 rue University",
+    "Floor": ["Ground", "1", "3", "4"]
+  },
+  {
+    "Building": "Armstrong Building",
+    "Address": "3420 rue McTavish",
+    "Floor": ["Ground", "1", "2", "3"]
+  },
+  {
+    "Building": "Birks Building",
+    "Address": "3520 rue University",
+    "Floor": ["Ground, 3"]
+  },
+  {
+    "Building": "Bronfman Building",
+    "Address": "1001 rue Sherbrooke Ouest",
+    "Floor": ["Basement", "Ground", "3", "4", "5", "6"]
+  },
+  {
+    "Building": "Brown Student Service Building",
+    "Address": "3600 rue McTavish",
+    "Floor": ["2, 3, 4, 5"]
+  },
+  {
+    "Building": "Burnside Hall",
+    "Address": "805 rue Sherbrooke Ouest",
+    "Floor": ["Basement, 1, 6"]
+  },
+  {
+    "Building": "Charles Meredith House",
+    "Address": "1130 av des Pins ouest",
+    "Floor": ["Basement"]
+  },
+  {
+    "Building": "Currie Gymnasium",
+    "Address": "1130 av des Pins ouest",
+    "Floor": ["Ground, 2, 3"]
+  },
+  {
+    "Building": "Davis House",
+    "Address": "3654 promenade Sir William Osler",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "Dawson Hall",
+    "Address": "853 rue Sherbrooke Ouest",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "Department of East Asian Studies",
+    "Address": "3434 rue McTavish",
+    "Floor": ["1, 3"]
+  },
+  {
+    "Building": "Department of Family Medicine",
+    "Address": "517 av des Pins ouest",
+    "Floor": ["Ground, 1, 2"]
+  },
+  {
+    "Building": "Department of Jewish Studies",
+    "Address": "3438 rue McTavish",
+    "Floor": ["1, 2"]
+  },
+  {
+    "Building": "Department of Linguistics",
+    "Address": "1085 av du Docteur-Penfield",
+    "Floor": ["Ground, 1, 2, 3"]
+  },
+  {
+    "Building": "Department of Oncology",
+    "Address": "546 av des Pins Ouest",
+    "Floor": ["1, 2, 3"]
+  },
+  {
+    "Building": "Department of Social Studies of Medicine",
+    "Address": "3647 rue Peel",
+    "Floor": ["1, 3"]
+  },
+  {
+    "Building": "Duff Medical Building",
+    "Address": "3775 rue University",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "Education Building",
+    "Address": "3700 rue McTavish",
+    "Floor": ["Basement"]
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Address": "527 rue Sherbrooke Ouest",
+    "Floor": ["Ground, 2, 3, 4, 5, 6, 7, 8"]
+  },
+  {
+    "Building": "Faculty Club",
+    "Address": "3450 rue McTavish",
+    "Floor": ["1, 3"]
+  },
+  {
+    "Building": "Faculty of Medicine",
+    "Address": "3605 rue de la Montagne",
+    "Floor": ["1, 2, 3"]
+  },
+  {
+    "Building": "Faculty of Medicine",
+    "Address": "3605 rue de la Montagne",
+    "Floor": ["1, 2, 3"]
+  },
+  {
+    "Building": "Ferrier Building",
+    "Address": "840 av du Doctor-Penfield",
+    "Floor": ["1"]
+  },
+  {
+    "Building": "First People’s House",
+    "Address": "3505 rue Peel",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "Genome",
+    "Address": "740 av du Docteur-Penfield",
+    "Floor": ["2, 3, 4, 5, 6, 7"]
+  },
+  {
+    "Building": "Institute for Gender, Sexuality, and Feminist Studies",
+    "Address": "3487 rue Peel",
+    "Floor": ["2"]
+  },
+  {
+    "Building": "James Administration Building",
+    "Address": "845 rue Sherbrooke Ouest",
+    "Floor": ["1, 2, 3"]
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Address": "855 rue Sherbrooke Ouest",
+    "Floor": ["5"]
+  },
+  {
+    "Building": "Ludmer Building",
+    "Address": "1033 av des Pins Ouest",
+    "Floor": ["1, 4"]
+  },
+  {
+    "Building": "Maass Chemistry Building",
+    "Address": "801 rue Sherbrooke Ouest",
+    "Floor": ["2, 3, 4"]
+  },
+  {
+    "Building": "Macdonald Engineering",
+    "Address": "817 rue Sherbrooke Ouest",
+    "Floor": ["1, 3, 5"]
+  },
+  {
+    "Building": "Macdonald Harrington Building",
+    "Address": "815 rue Sherbrooke Ouest",
+    "Floor": ["5"]
+  },
+  {
+    "Building": "Martlet House",
+    "Address": "1430 rue Peel",
+    "Floor": ["1"]
+  },
+  {
+    "Building": "McCall MacBain Arts Building",
+    "Address": "853 rue Sherbrooke Ouest",
+    "Floor": ["Basement"]
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Address": "3480 rue University",
+    "Floor": ["3, 6, 8"]
+  },
+  {
+    "Building": "McGill Association of Continuing Education",
+    "Address": "3437 rue Peel",
+    "Floor": ["1, 2, 3, 4"]
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Address": "3655 promenade Sir William Osler",
+    "Floor": ["3, 4"]
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Address": "3459 rue McTavish",
+    "Floor": ["Basement, 1, 3"]
+  },
+  {
+    "Building": "McTavish 3430",
+    "Address": "3430 rue McTavish",
+    "Floor": ["1, 2"]
+  },
+  {
+    "Building": "Morrice Hall",
+    "Address": "3485 rue McTavish",
+    "Floor": ["Ground, 3"]
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Address": "3644 rue Peel",
+    "Floor": ["2, 3, 4, 5, 6"]
+  },
+  {
+    "Building": "Peterson Hall",
+    "Address": "3460 rue McTavish",
+    "Floor": ["Ground"]
+  },
+  {
+    "Building": "Pulp and Paper Building",
+    "Address": "3420 rue University",
+    "Floor": ["Ground, 1"]
+  },
+  {
+    "Building": "Purvis Hall",
+    "Address": "1020 av des Pins Ouest",
+    "Floor": ["3"]
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Address": "3459 rue McTavish",
+    "Floor": ["1, 3"]
+  },
+  {
+    "Building": "Rutherford Physics Building",
+    "Address": "3600 rue University",
+    "Floor": ["Ground, 1"]
+  },
+  {
+    "Building": "School of Environment",
+    "Address": "3534 rue University",
+    "Floor": ["2, 3"]
+  },
+  {
+    "Building": "School of Information Studies",
+    "Address": "3661 rue Peel",
+    "Floor": ["1, 2, 3"]
+  },
+  {
+    "Building": "Schulich Library of Physical Sciences, Life Sciences",
+    "Address": "809 rue Sherbrooke Ouest",
+    "Floor": ["1, 3, 4, 5, 6"]
+  },
+  {
+    "Building": "Sports Complex - McGill University Athletics",
+    "Address": "475 Pine Ave W, Montreal",
+    "Floor": ["Ground, 3"]
+  },
+  {
+    "Building": "Strathcona Anatomy and Dentistry Building",
+    "Address": "3640 rue University",
+    "Floor": ["Basement, 1, 3"]
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Address": "555 rue Sherbrooke Ouest",
+    "Floor": ["1, 3"]
+  },
+  {
+    "Building": "Trottier Building",
+    "Address": "3630 rue University",
+    "Floor": ["1, 2, 3, 4, 5"]
+  },
+  {
+    "Building": "Wilson Hall",
+    "Address": "3506 rue University",
+    "Floor": ["1, 2"]
+  },
+  {
+    "Building": "Wong Building",
+    "Address": "3610 rue University",
+    "Floor": ["5, 7"]
+  }
 ]
