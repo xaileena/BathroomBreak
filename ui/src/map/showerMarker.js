@@ -16,7 +16,7 @@ const ShowerMarker = ({isVisible}) => {
           return (
           <AdvancedMarker
             key={building.Building}
-            position={{ lat: building.Latitude, lng: building.Longitude }}
+            position={{ lat: building.Latitude - 0.0000300000000, lng: building.Longitude - 0.0000300000000}}
           >
             <img src={showerIcon} alt="Shower" style={{ width: '40px', height: '40px' }} />
           </AdvancedMarker>

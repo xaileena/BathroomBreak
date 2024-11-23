@@ -23,7 +23,7 @@ export default function MapUI() {
                 disableDefaultUI={true}
                 mapId={'3b1974584796597b'}
                 heading={305}
-                colorScheme='DARK'
+                colorScheme='LIGHT'
                 options={{
                     restriction: {
                         latLngBounds: bounds,

@@ -12,9 +12,9 @@ const DefaultBathroomMarker = ({isVisible}) => {
           return (
           <AdvancedMarker
             key={building.Building}
-            position={{ lat: building.Latitude, lng: building.Longitude }}
+            position={{ lat: building.Latitude, lng: building.Longitude}}
           >
-            <img src={toiletIcon} alt="Default Bathroom" style={{ width: '40px', height: '40px' }} />
+            <img src={toiletIcon} alt="Default Bathroom" style={{ width: '25px', height: '40px' }} />
           </AdvancedMarker>
           );
         })}

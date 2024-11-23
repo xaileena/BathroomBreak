@@ -16,9 +16,9 @@ const GenderNeutralBathroomMarker = ({isVisible}) => {
           return (
           <AdvancedMarker
             key={building.Building}
-            position={{ lat: building.Latitude, lng: building.Longitude }}
+            position={{ lat: building.Latitude + 0.0000300000000, lng: building.Longitude + 0.0000300000000}}
           >
-            <img src={genderNeutralIcon} alt="Gender Neutral Bathroom" style={{ width: '40px', height: '40px' }} />
+            <img src={genderNeutralIcon} alt="Gender Neutral Bathroom" style={{ width: '25px', height: '40px' }} />
           </AdvancedMarker>
           );
         })}
