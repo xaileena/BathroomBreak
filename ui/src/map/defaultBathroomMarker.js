@@ -1,6 +1,6 @@
 import { AdvancedMarker } from "@vis.gl/react-google-maps";
 import coords from "./../data/coords.json";
-import toiletIcon from "./../static/toilet_icon.png";
+import toiletIcon from "./../static/toiletIcon.png";
 
 const DefaultBathroomMarker = ({isVisible}) => {
     if (!isVisible) {
