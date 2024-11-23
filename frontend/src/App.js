@@ -5,11 +5,11 @@ import {APIProvider, Map} from '@vis.gl/react-google-maps';
 function App() {
   return (
     <div className="App">
-      <APIProvider apiKey={'AIzaSyA9jah1UU9DtuvDAPe4r91IHgbbuhvFrIw'} onLoad={() => console.log('Maps API has loaded.')}>
+      <APIProvider apiKey={process.env.REACT_APP_API_KEY} onLoad={() => console.log('Maps API has loaded.')}>
         <Map
         style={{width: '100vw', height: '100vh'}}
-        defaultCenter={{lat: 22.54992, lng: 0}}
-        defaultZoom={3}
+        defaultCenter={{lat: 45.504501, lng: -73.576124}}
+        defaultZoom={17}
         gestureHandling={'greedy'}
         disableDefaultUI={true}
       />
