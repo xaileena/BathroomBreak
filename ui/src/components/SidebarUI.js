@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import {
     FiBarChart,
-    FiChevronDown,
-    FiChevronsRight,
     FiDollarSign,
     FiHome,
     FiMonitor,
@@ -11,9 +9,10 @@ import {
     FiUsers,
   } from "react-icons/fi";
   import { motion } from "framer-motion";
-  
+  import logo from "./../assets/logo.svg";
+
   export const SidebarUI = () => {
-    const [open, setOpen] = useState(true);
+    const [open, setOpen] = useState(false);
     const [selected, setSelected] = useState("Dashboard");
   
     return (
@@ -21,13 +20,12 @@ import {
         onHoverStart={() => setOpen((pv) => !pv)}
         onHoverEnd={() => setOpen(false)}
         layout
-        className="fixed top-0 h-screen shrink-0 border-l border-slate-300 bg-[#E2CDA7] p-2 z-10 rounded-r-lg"
+        className="fixed top-0 h-screen shrink-0 bg-[#E2CDA7] p-2 z-10 rounded-r-lg"
         style={{
           width: open ? "400px" : "fit-content",
         }}
       >
-        <TitleSection open={open} />
-  
+        <TitleSection open={open}/>
         <div className="space-y-1">
           <Option
             Icon={FiHome}
@@ -129,10 +127,10 @@ import {
   
   const TitleSection = ({ open }) => {
     return (
-      <div className="mb-3 border-b border-slate-300 pb-3">
+      <div className="mb-3 border-b border-slate-300 pb-3 pointer-events-none">
         <div className="flex cursor-pointer items-center justify-between rounded-md transition-colors hover:bg-slate-100">
           <div className="flex items-center gap-2">
-            <Logo />
+          <Logo />
             {open && (
               <motion.div
                 layout
@@ -140,44 +138,26 @@ import {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.125 }}
               >
-                <span className="block text-xs font-semibold">TomIsLoading</span>
-                <span className="block text-xs text-slate-500">Pro Plan</span>
+                <span className="block text-m font-bold">BathroomBreak</span>
               </motion.div>
             )}
           </div>
-          {open && <FiChevronDown className="mr-2" />}
         </div>
       </div>
     );
   };
   
   const Logo = () => {
-    // Temp logo from https://logoipsum.com/
     return (
       <motion.div
         layout
-        className="grid size-10 shrink-0 place-content-center rounded-md bg-indigo-600"
+        className="grid size-16 shrink-0 place-content-center "
       >
-        <svg
-          width="24"
-          height="auto"
-          viewBox="0 0 50 39"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-          className="fill-slate-50"
-        >
-          <path
-            d="M16.4992 2H37.5808L22.0816 24.9729H1L16.4992 2Z"
-            stopColor="#000000"
-          ></path>
-          <path
-            d="M17.4224 27.102L11.4192 36H33.5008L49 13.0271H32.7024L23.2064 27.102H17.4224Z"
-            stopColor="#000000"
-          ></path>
-        </svg>
+        <img src={logo} alt="logo" className="w-16 h-16" />
       </motion.div>
     );
   };
+  
 
     
   
