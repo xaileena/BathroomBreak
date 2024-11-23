@@ -1,4 +1,3 @@
-import logo from './logo.jpg';
 import './App.css';
 import {APIProvider, Map} from '@vis.gl/react-google-maps';
 console.log(process.env.REACT_APP_GOOGLE_API_KEY);
@@ -16,7 +15,6 @@ function App() {
       />
       </APIProvider>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
