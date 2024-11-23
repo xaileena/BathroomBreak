@@ -30,7 +30,6 @@ export default function MapUI() {
                         strictBounds: true, 
                     },
                 }}
-                
             />
         </APIProvider>
     )
