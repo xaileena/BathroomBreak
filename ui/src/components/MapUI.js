@@ -11,7 +11,7 @@ export default function MapUI() {
                 disableDefaultUI={true}
                 mapId={'3b1974584796597b'}
                 heading={305}
-                colorScheme='FOLLOW_SYSTEM'
+                colorScheme='WHITE'
             />
         </APIProvider>
     )
