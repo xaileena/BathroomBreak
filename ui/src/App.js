@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.jpg';
 import './App.css';
 import {APIProvider, Map} from '@vis.gl/react-google-maps';
 console.log(process.env.REACT_APP_GOOGLE_API_KEY);
