@@ -17,34 +17,60 @@ export const FilterbarUI = () => {
 };
 
 const SideNav = () => {
-  const [selected, setSelected] = useState(0);
+  const [selected, setSelected] = useState([]);
+
+  const toggleSelection = (id) => {
+    setSelected((prev) =>
+      prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]
+    );
+  };
 
   return (
     <nav className="w-full max-w-[1200px] h-[70px] bg-slate-950 p-4 flex justify-center items-center gap-4 rounded-md shadow-lg">
-      <NavItem selected={selected === 0} id={0} setSelected={setSelected}>
+      <NavItem
+        selected={selected.includes(0)}
+        id={0}
+        toggleSelection={toggleSelection}
+      >
         <SiTailwindcss />
       </NavItem>
-      <NavItem selected={selected === 1} id={1} setSelected={setSelected}>
+      <NavItem
+        selected={selected.includes(1)}
+        id={1}
+        toggleSelection={toggleSelection}
+      >
         <SiReact />
       </NavItem>
-      <NavItem selected={selected === 2} id={2} setSelected={setSelected}>
+      <NavItem
+        selected={selected.includes(2)}
+        id={2}
+        toggleSelection={toggleSelection}
+      >
         <SiJavascript />
       </NavItem>
-      <NavItem selected={selected === 3} id={3} setSelected={setSelected}>
+      <NavItem
+        selected={selected.includes(3)}
+        id={3}
+        toggleSelection={toggleSelection}
+      >
         <SiFramer />
       </NavItem>
-      <NavItem selected={selected === 4} id={4} setSelected={setSelected}>
+      <NavItem
+        selected={selected.includes(4)}
+        id={4}
+        toggleSelection={toggleSelection}
+      >
         <SiCss3 />
       </NavItem>
     </nav>
   );
 };
 
-const NavItem = ({ children, selected, id, setSelected }) => {
+const NavItem = ({ children, selected, id, toggleSelection }) => {
   return (
     <motion.button
       className="p-3 text-xl bg-slate-800 hover:bg-slate-700 rounded-md transition-colors relative"
-      onClick={() => setSelected(id)}
+      onClick={() => toggleSelection(id)}
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
     >
