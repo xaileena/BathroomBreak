@@ -15,6 +15,7 @@ const GenderNeutralBathroomMarker = ({isVisible}) => {
     return (
         <>
         {genderNeutralBathroomCoords.map((building) => {
+          const isHovered = hoveredMarker === building.Building;
           return (
           <AdvancedMarker
             key={building.Building}
@@ -24,7 +25,7 @@ const GenderNeutralBathroomMarker = ({isVisible}) => {
           >
             <img src={genderNeutralIcon} alt="Gender Neutral Bathroom"
             className={`w-6 h-10 transition-all duration-300 
-              ${hoveredMarker ? 'scale-110 w-8 h-12' : ''}`} />
+              ${isHovered ? 'scale-110 w-8 h-12' : ''}`} />
           </AdvancedMarker>
           );
         })}

@@ -17,7 +17,7 @@ export const SidebarUI = () => {
       layout
       className="fixed top-0 h-screen shrink-0 bg-[#E0EBF5] p-2 z-10 rounded-r-lg border border-gray-400"
       style={{
-        width: open ? "400px" : "fit-content",
+        width: open ? "400px" : "250px",
       }}
     >
       <TitleSection open={open}/>
@@ -57,7 +57,6 @@ const Option = ({ title, selected, setSelected, open}) => {
         className="grid h-full w-10 place-content-center text-lg"
       >
       </motion.div>
-      {open && (
         <motion.span
           layout
           initial={{ opacity: 0, y: 12 }}
@@ -67,7 +66,6 @@ const Option = ({ title, selected, setSelected, open}) => {
         >
           {title}
         </motion.span>
-      )}
     </motion.button>
   );
 };
@@ -85,7 +83,7 @@ const TitleSection = ({ open }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.125 }}
             >
-              <span className="block text-m font-bold mx-20"> Bathroom Info</span>
+              <span className="block text-m font-bold mx-20"> Building Info</span>
             </motion.div>
           )}
         </div>

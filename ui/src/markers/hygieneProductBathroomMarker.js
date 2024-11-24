@@ -11,14 +11,14 @@ const HygieneProductsBathroomMarker = ({ isVisible }) => {
   }
   const hygieneProductsBathroomsCoords = coords.filter(
     (
-      coord // Hygiene products
+      coord
     ) =>
       hygieneProducts.some((building) => building.Building === coord.Building) // Hygiene products
   );
   return (
     <>
       {hygieneProductsBathroomsCoords.map((building) => {
-        // Hygiene products
+        const isHovered = hoveredMarker === building.Building;
         return (
           <AdvancedMarker
             key={building.Building}
@@ -30,7 +30,7 @@ const HygieneProductsBathroomMarker = ({ isVisible }) => {
               src={hygieneProductIcon}
               alt="Female Hygiene Bathroom"
               className={`w-6 h-10 transition-all duration-300 
-              ${hoveredMarker ? "scale-110 w-8 h-12" : ""}`}
+              ${isHovered ? "scale-110 w-8 h-12" : ""}`}
             />
           </AdvancedMarker>
         );
