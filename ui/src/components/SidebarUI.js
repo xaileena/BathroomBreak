@@ -1,19 +1,13 @@
-import React, { useState } from "react";
-import {
-    FiBarChart,
-    FiDollarSign,
-    FiHome,
-    FiMonitor,
-    FiShoppingCart,
-    FiTag,
-    FiUsers,
-  } from "react-icons/fi";
-  import { motion } from "framer-motion";
-  import logo from "./../assets/logo.svg";
+import React, { useState, useEffect } from "react";
+import { motion } from "framer-motion";
+import logo from "./../assets/logo.svg";
+import coords from "./../data/coords.json";
+import { SearchBar } from "./searchBar";
 
   export const SidebarUI = () => {
     const [open, setOpen] = useState(false);
     const [selected, setSelected] = useState("Dashboard");
+    const [filteredCoords, setFilteredCoords] = useState(coords);
   
     return (
       <motion.nav
@@ -26,63 +20,23 @@ import {
         }}
       >
         <TitleSection open={open}/>
-        <div className="space-y-1">
-          <Option
-            Icon={FiHome}
-            title="Dashboard"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-          />
-          <Option
-            Icon={FiDollarSign}
-            title="Sales"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-            notifs={3}
-          />
-          <Option
-            Icon={FiMonitor}
-            title="View Site"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-          />
-          <Option
-            Icon={FiShoppingCart}
-            title="Products"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-          />
-          <Option
-            Icon={FiTag}
-            title="Tags"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-          />
-          <Option
-            Icon={FiBarChart}
-            title="Analytics"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-          />
-          <Option
-            Icon={FiUsers}
-            title="Members"
-            selected={selected}
-            setSelected={setSelected}
-            open={open}
-          />
+        <SearchBar coords={coords} setFilteredCoords={setFilteredCoords} />
+        <div className="space-y-1 overflow-y-auto h-full">
+          {filteredCoords.map((building) => (
+            <Option
+              key={building.Building}
+              title={building.Building}
+              selected={selected}
+              setSelected={setSelected}
+              open={open}
+            />
+          ))}
         </div>
         </motion.nav>
     );
   };
   
-  const Option = ({ Icon, title, selected, setSelected, open, notifs }) => {
+  const Option = ({ title, selected, setSelected, open }) => {
     return (
       <motion.button
         layout
@@ -93,7 +47,6 @@ import {
           layout
           className="grid h-full w-10 place-content-center text-lg"
         >
-          <Icon />
         </motion.div>
         {open && (
           <motion.span
@@ -101,24 +54,9 @@ import {
             initial={{ opacity: 0, y: 12 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.125 }}
-            className="text-xs font-medium"
+            className="text-xs font-medium text-left"
           >
             {title}
-          </motion.span>
-        )}
-  
-        {notifs && open && (
-          <motion.span
-            initial={{ scale: 0, opacity: 0 }}
-            animate={{
-              opacity: 1,
-              scale: 1,
-            }}
-            style={{ y: "-50%" }}
-            transition={{ delay: 0.5 }}
-            className="absolute right-2 top-1/2 size-4 rounded bg-indigo-500 text-xs text-white"
-          >
-            {notifs}
           </motion.span>
         )}
       </motion.button>
@@ -138,7 +76,7 @@ import {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.125 }}
               >
-                <span className="block text-m font-bold mx-20"> Bathroom Info</span>
+                <span className="block text-m font-bold mx-10"> Click For Bathroom Info!</span>
               </motion.div>
             )}
           </div>
@@ -157,7 +95,3 @@ import {
       </motion.div>
     );
   };
-  
-
-    
-  
