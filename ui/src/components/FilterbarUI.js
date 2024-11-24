@@ -1,27 +1,23 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 export function FilterbarUI({ activeFilters, setActiveFilters }) {
     const toggleFilter = (filter) => {
-        if (activeFilters.includes(filter)) {
-            // Remove filter if it's already active
-            setActiveFilters(activeFilters.filter((f) => f !== filter));
-        } else{
-            // Add filter if it's not active
-            setActiveFilters([...activeFilters, filter]);
-        } 
         if (filter === 'default') {
+            // Reset to only default bathrooms when "Clear Filters" is clicked
             setActiveFilters(['default']);
+        } else {
+            // Remove 'default' when any other filter is selected
+            const updatedFilters = activeFilters.includes(filter)
+                ? activeFilters.filter((f) => f !== filter) // Remove if already active
+                : [...activeFilters.filter((f) => f !== 'default'), filter]; // Add and remove 'default'
+
+            setActiveFilters(updatedFilters);
         }
     };
-    console.log(activeFilters);
+
     return (
         <div className="filterbar">
-            <button
-                onClick={() => toggleFilter('default')}
-                className={activeFilters.includes('default') ? 'active' : ''}
-            >
-                Clear Filters
-            </button>
+            <button onClick={() => toggleFilter('default')}>Clear Filters</button>
             <button
                 onClick={() => toggleFilter('genderNeutral')}
                 className={activeFilters.includes('genderNeutral') ? 'active' : ''}
