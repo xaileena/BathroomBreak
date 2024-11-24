@@ -24,7 +24,7 @@ const GenderNeutralBathroomMarker = ({isVisible}) => {
           >
             <img src={genderNeutralIcon} alt="Gender Neutral Bathroom"
             className={`w-6 h-10 transition-all duration-300 
-              ${isHovered ? 'scale-110 w-8 h-12' : ''}`} />
+              ${hoveredMarker ? 'scale-110 w-8 h-12' : ''}`} />
           </AdvancedMarker>
           );
         })}

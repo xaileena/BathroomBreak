@@ -6,7 +6,6 @@ import { useState } from "react";
 
 const HygieneProductsBathroomMarker = ({ isVisible }) => {
   const [hoveredMarker, setHoveredMarker] = useState(null);
-  // Hygiene products
   if (!isVisible) {
     return null;
   }
@@ -19,7 +18,6 @@ const HygieneProductsBathroomMarker = ({ isVisible }) => {
   return (
     <>
       {hygieneProductsBathroomsCoords.map((building) => {
-        const isHovered = hoveredMarker === building.Building;
         // Hygiene products
         return (
           <AdvancedMarker
@@ -32,7 +30,7 @@ const HygieneProductsBathroomMarker = ({ isVisible }) => {
               src={hygieneProductIcon}
               alt="Female Hygiene Bathroom"
               className={`w-6 h-10 transition-all duration-300 
-              ${isHovered ? "scale-110 w-8 h-12" : ""}`}
+              ${hoveredMarker ? "scale-110 w-8 h-12" : ""}`}
             />
           </AdvancedMarker>
         );
