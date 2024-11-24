@@ -15,7 +15,7 @@ export const SidebarUI = () => {
       onHoverStart={() => setOpen((pv) => !pv)}
       onHoverEnd={() => setOpen(false)}
       layout
-      className="fixed top-0 h-screen shrink-0 bg-[#E2CDA7] p-2 z-10 rounded-r-lg"
+      className="fixed top-0 h-screen shrink-0 bg-[#E0EBF5] p-2 z-10 rounded-r-lg border border-gray-400"
       style={{
         width: open ? "400px" : "fit-content",
       }}
