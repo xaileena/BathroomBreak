@@ -16,6 +16,4 @@ Plus, you can leave reviews for others to share your experiences and highlight t
 # Technologies
 Built with React, Tailwind and Google Maps API.
 
-# Project Setup
-
-# Demo
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/7ee0d15f-b9af-4ff1-8a5c-6339dc8b61a6">
