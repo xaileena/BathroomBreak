@@ -3,10 +3,11 @@ import { motion } from "framer-motion";
 import logo from "./../assets/logo.svg";
 import coords from "./../data/coords.json";
 import { SearchBar } from "./SearchBar";
+import { BuildingInfo } from "./BuildingInfo";
 
 export const SidebarUI = () => {
   const [open, setOpen] = useState(false);
-  const [selected, setSelected] = useState("Dashboard");
+  const [selected, setSelected] = useState(null);
   const [filteredCoords, setFilteredCoords] = useState(coords);
 
   return (
@@ -20,19 +21,27 @@ export const SidebarUI = () => {
       }}
     >
       <TitleSection open={open}/>
-      <SearchBar coords={coords} setFilteredCoords={setFilteredCoords} />
-      <div className="space-y-1 overflow-y-auto h-full pb-40">
-      {filteredCoords.map((building) => (
-        <Option
-          key={building.Building}
-          title={building.Building}
-          selected={selected}
-          setSelected={setSelected}
-          open={open}
+      {selected ? (
+        <BuildingInfo
+          building={selected}
+          onBack={() => setSelected(null)} // Back button handler
         />
-      ))}
-      </div>
-      </motion.nav>
+      ) : (
+        <>
+          <SearchBar coords={coords} setFilteredCoords={setFilteredCoords} />
+          <div className="space-y-1 overflow-y-auto h-full pb-40">
+            {filteredCoords.map((building) => (
+              <Option
+                key={building.Building}
+                title={building.Building}
+                setSelected={setSelected}
+                open={open}
+              />
+            ))}
+          </div>
+        </>
+      )}
+    </motion.nav>
   );
 };
 
@@ -40,7 +49,7 @@ const Option = ({ title, selected, setSelected, open}) => {
   return (
     <motion.button
       layout
-      onClick={() => setSelected(title)}
+      onClick={() => setSelected({Building : title})}
       className={`relative flex h-10 w-full items-center rounded-md transition-colors ${selected === title ? "bg-indigo-100 text-indigo-800" : "text-slate-500 hover:bg-slate-100"}`}
     >
       <motion.div

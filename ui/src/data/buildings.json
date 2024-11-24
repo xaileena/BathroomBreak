@@ -1,0 +1,401 @@
+[
+  {
+    "Building": "Adams Building",
+    "Address": "3450 rue University",
+    "Latitude": 45.50580744010768,
+    "Longitude": -73.57531710720566,
+    "Picture": "./../buildingPics/adams.jpg" 
+  },
+  {
+    "Building": "Armstrong Building",
+    "Address": "3420 rue McTavish",
+    "Latitude": 45.50308794229293,
+    "Longitude": -73.5767779611113,
+    "Picture": "./../buildingPics/armstrong.jpg" 
+  },
+  {
+    "Building": "Birks Building",
+    "Address": "3520 rue University",
+    "Latitude": 45.506880944547106,
+    "Longitude": -73.57723884576869,
+    "Picture": "./../buildingPics/birks.jpeg" 
+  },
+  {
+    "Building": "Bronfman Building",
+    "Address": "1001 rue Sherbrooke Ouest",
+    "Latitude": 45.50256040903487,
+    "Longitude": -73.57634302000686,
+    "Picture": "./../buildingPics/bronfman.jpg" 
+  },
+  {
+    "Building": "Brown Student Service Building",
+    "Address": "3600 rue McTavish",
+    "Latitude": 45.503951637272316,
+    "Longitude": -73.57841251693324,
+    "Picture": "./../buildingPics/brown.png" 
+  },
+  {
+    "Building": "Burnside Hall",
+    "Address": "805 rue Sherbrooke Ouest",
+    "Latitude": 45.505575778339434,
+    "Longitude": -73.5756157592619,
+    "Picture": "./../buildingPics/burnside.jpg" 
+  },
+  {
+    "Building": "Charles Meredith House",
+    "Address": "1130 av des Pins Ouest",
+    "Latitude": 45.504096238268254,
+    "Longitude": -73.58211206111119,
+    "Picture": "./../buildingPics/charlesMeredith.jpg" 
+  },
+  {
+    "Building": "Currie Gymnasium",
+    "Address": "475 av des Pins Ouest",
+    "Latitude": 45.50977705071038,
+    "Longitude": -73.57946690343965,
+    "Picture": "./../buildingPics/currie.jpg" 
+  },
+  {
+    "Building": "Davis House",
+    "Address": "3654 promenade Sir William Osler",
+    "Latitude": 45.50252176452201,
+    "Longitude": -73.58284847959557,
+    "Picture": "./../buildingPics/davisHouse.jpg" 
+  },
+  {
+    "Building": "Dawson Hall",
+    "Address": "853 rue Sherbrooke Ouest",
+    "Latitude": 45.50552894185959,
+    "Longitude": -73.57763846111112,
+    "Picture": "./../buildingPics/dawson.jpeg" 
+  },
+  {
+    "Building": "Department of East Asian Studies",
+    "Address": "3434 rue McTavish",
+    "Latitude": 45.503312792032986,
+    "Longitude": -73.57709583412502,
+    "Picture": "./../buildingPics/eastAsian.jpg" 
+  },
+  {
+    "Building": "Department of Family Medicine",
+    "Address": "517 av des Pins Ouest",
+    "Latitude": 45.50941159730291,
+    "Longitude": -73.5798361457686,
+    "Picture": "./../buildingPics/family.jpeg" 
+  },
+  {
+    "Building": "Department of Jewish Studies",
+    "Address": "3438 rue McTavish",
+    "Latitude": 45.503348652780026,
+    "Longitude": -73.5771031611113,
+    "Picture": "./../buildingPics/jewish.png" 
+  },
+  {
+    "Building": "Department of Linguistics",
+    "Address": "1085 av du Docteur-Penfield",
+    "Latitude": 45.503904079099954,
+    "Longitude": -73.57921848809758,
+    "Picture": "./../buildingPics/linguistics.png" 
+  },
+  {
+    "Building": "Department of Oncology",
+    "Address": "546 av des Pins Ouest",
+    "Latitude": 45.50892572619396,
+    "Longitude": -73.5797693526069,
+    "Picture": "./../buildingPics/oncology.png" 
+  },
+  {
+    "Building": "Department of Social Studies of Medicine",
+    "Address": "3647 rue Peel",
+    "Latitude": 45.50403252047549,
+    "Longitude": -73.57992867460442,
+    "Picture": "./../buildingPics/socialStudies.png" 
+  },
+  {
+    "Building": "Duff Medical Building",
+    "Address": "3775 rue University",
+    "Latitude": 45.509222898348966,
+    "Longitude": -73.58087684576853,
+    "Picture": "./../buildingPics/duff.jpg" 
+  },
+  {
+    "Building": "Education Building",
+    "Address": "3700 rue McTavish",
+    "Latitude": 45.50499982866606,
+    "Longitude": -73.58024290343995,
+    "Picture": "./../buildingPics/education.png" 
+  },
+  {
+    "Building": "Elizabeth Wirth Music Building (Schulich School of Music)",
+    "Address": "527 rue Sherbrooke Ouest",
+    "Latitude": 45.50649171456284,
+    "Longitude": -73.5732108592619,
+    "Picture": "./../buildingPics/schulich.jpg" 
+  },
+  {
+    "Building": "Faculty Club",
+    "Address": "3450 rue McTavish",
+    "Latitude": 45.50332340266601,
+    "Longitude": -73.57728640528941,
+    "Picture": "./../buildingPics/faculty.jpg" 
+  },
+  {
+    "Building": "Faculty of Medicine",
+    "Address": "3605 rue de la Montagne",
+    "Latitude": 45.50178480910212,
+    "Longitude": -73.58210340837697,
+    "Picture": "./../buildingPics/medicine.png" 
+  },
+  {
+    "Building": "Ferrier Building",
+    "Address": "840 av du Doctor-Penfield",
+    "Latitude": 45.505745327520785,
+    "Longitude": -73.57837040343999,
+    "Picture": "./../buildingPics/ferrier.jpg" 
+  },
+  {
+    "Building": "First People’s House",
+    "Address": "3505 rue Peel",
+    "Latitude": 45.50348091928204,
+    "Longitude": -73.57899917460445,
+    "Picture": "./../buildingPics/first.png" 
+  },
+  {
+    "Building": "Genome",
+    "Address": "740 av du Docteur-Penfield",
+    "Latitude": 45.50699131303908,
+    "Longitude": -73.5793099219226,
+    "Picture": "./../buildingPics/genome.jpg" 
+  },
+  {
+    "Building": "Institute for Gender, Sexuality, and Feminist Studies",
+    "Address": "3487 rue Peel",
+    "Latitude": 45.50336069651809,
+    "Longitude": -73.5786102611113,
+    "Picture": "./../buildingPics/gender.png" 
+  },
+  {
+    "Building": "James Administration Building",
+    "Address": "845 rue Sherbrooke Ouest",
+    "Latitude": 45.506490710035735,
+    "Longitude": -73.57670350343982,
+    "Picture": "./../buildingPics/james.jpg" 
+  },
+  {
+    "Building": "Leacock, Stephen, Building",
+    "Address": "855 rue Sherbrooke Ouest",
+    "Latitude": 45.50442430499797,
+    "Longitude": -73.57800386015438,
+    "Picture": "./../buildingPics/leacock.jpg" 
+  },
+  {
+    "Building": "Ludmer Building",
+    "Address": "1033 av des Pins Ouest",
+    "Latitude": 45.505878824967674,
+    "Longitude": -73.58252483042628,
+    "Picture": "./../buildingPics/ludmer.jpg" 
+  },
+  {
+    "Building": "Maass Chemistry Building",
+    "Address": "801 rue Sherbrooke Ouest",
+    "Latitude": 45.50505405658818,
+    "Longitude": -73.57413337645373,
+    "Picture": "./../buildingPics/maass.jpg" 
+  },
+  {
+    "Building": "Macdonald Engineering",
+    "Address": "817 rue Sherbrooke Ouest",
+    "Latitude": 45.50521872010744,
+    "Longitude": -73.57525497774529,
+    "Picture": "./../buildingPics/macdonaldEngineering.jpg" 
+  },
+  {
+    "Building": "Macdonald Harrington Building",
+    "Address": "815 rue Sherbrooke Ouest",
+    "Latitude": 45.505601264585515,
+    "Longitude": -73.5751561574126,
+    "Picture": "./../buildingPics/macdonaldHarrington.jpg" 
+  },
+  {
+    "Building": "Martlet House",
+    "Address": "1430 rue Peel",
+    "Latitude": 45.50036754919635,
+    "Longitude": -73.57393674576902,
+    "Picture": "./../buildingPics/martlet.jpeg" 
+  },
+  {
+    "Building": "McCall MacBain Arts Building",
+    "Address": "853 rue Sherbrooke Ouest",
+    "Latitude": 45.505389836451286,
+    "Longitude": -73.57765991878239,
+    "Picture": "./../buildingPics/mccall.jpg" 
+  },
+  {
+    "Building": "McConnell Engineering Building",
+    "Address": "3480 rue University",
+    "Latitude": 45.50608369213567,
+    "Longitude": -73.57589657645357,
+    "Picture": "./../buildingPics/mcconnell.jpg" 
+  },
+  {
+    "Building": "McGill Association of Continuing Education",
+    "Address": "3437 rue Peel",
+    "Latitude": 45.50278022348615,
+    "Longitude": -73.577557059262,
+    "Picture": "./../buildingPics/continuing.png" 
+  },
+  {
+    "Building": "McIntyre Medical Sciences Building",
+    "Address": "3655 promenade Sir William Osler",
+    "Latitude": 45.50295894926847,
+    "Longitude": -73.58236587645379,
+    "Picture": "./../buildingPics/mcintyre.jpg" 
+  },
+  {
+    "Building": "McLennan Library Building",
+    "Address": "3459 rue McTavish",
+    "Latitude": 45.503724872981486,
+    "Longitude": -73.57690764576884,
+    "Picture": "./../buildingPics/mclennan.jpg" 
+  },
+  {
+    "Building": "McTavish 3430",
+    "Address": "3430 rue McTavish",
+    "Latitude": 45.50332510920237,
+    "Longitude": -73.5767626304264,
+    "Picture": "./../buildingPics/3430.png" 
+  },
+  {
+    "Building": "Morrice Hall",
+    "Address": "3485 rue McTavish",
+    "Latitude": 45.50426747055363,
+    "Longitude": -73.57775897645374,
+    "Picture": "./../buildingPics/morrice.jpg" 
+  },
+  {
+    "Building": "New Chancellor Day Hall",
+    "Address": "3644 rue Peel",
+    "Latitude": 45.50321665916376,
+    "Longitude": -73.58080027460446,
+    "Picture": "./../buildingPics/newChancellor.jpg" 
+  },
+  {
+    "Building": "Peterson Hall",
+    "Address": "3460 rue McTavish",
+    "Latitude": 45.50351283023684,
+    "Longitude": -73.57773511028006,
+    "Picture": "./../buildingPics/peterson.jpg"
+  },
+  {
+    "Building": "Pulp and Paper Building",
+    "Address": "3420 rue University",
+    "Latitude": 45.50571821001092,
+    "Longitude": -73.57455624576872,
+    "Picture": "./../buildingPics/pulp.png"
+  },
+  {
+    "Building": "Purvis Hall",
+    "Address": "1020 av des Pins Ouest",
+    "Latitude": 45.50474698011068,
+    "Longitude": -73.5815676206317,
+    "Picture": "./../buildingPics/purvis.jpg"
+  },
+  {
+    "Building": "Redpath Library Building",
+    "Address": "3459 rue McTavish",
+    "Latitude": 45.5037098340936,
+    "Longitude": -73.57699347645374,
+    "Picture": "./../buildingPics/redpath.jpg"
+  },
+  {
+    "Building": "Rutherford Physics Building",
+    "Address": "3600 rue University",
+    "Latitude": 45.50732613285742,
+    "Longitude": -73.57840293042626,
+    "Picture": "./../buildingPics/rutherford.jpg"
+  },
+  {
+    "Building": "School of Environment",
+    "Address": "3534 rue University",
+    "Latitude": 45.506839275639024,
+    "Longitude": -73.57749833042624,
+    "Picture": "./../buildingPics/environment.png"
+  },
+  {
+    "Building": "School of Information Studies",
+    "Address": "3661 rue Peel",
+    "Latitude": 45.50421030668758,
+    "Longitude": -73.58023846425252,
+    "Picture": "./../buildingPics/information.png"
+  },
+  {
+    "Building": "Schulich Library of Physical Sciences, Life Sciences",
+    "Address": "809 rue Sherbrooke Ouest",
+    "Latitude": 45.50508742155668,
+    "Longitude": -73.57549311693319,
+    "Picture": "./../buildingPics/schulichLibrary.jpg"
+  },
+  {
+    "Building": "Strathcona Anatomy and Dentistry Building",
+    "Address": "3640 rue University",
+    "Latitude": 45.50765146914198,
+    "Longitude": -73.57973570343984,
+    "Picture": "./../buildingPics/strathcona.jpeg"
+  },
+  {
+    "Building": "Strathcona Music Building",
+    "Address": "555 rue Sherbrooke Ouest",
+    "Latitude": 45.50596499457303,
+    "Longitude": -73.57341415741247,
+    "Picture": "./../buildingPics/strathconaMusic.jpg"
+  },
+  {
+    "Building": "Trottier Building",
+    "Address": "3630 rue University",
+    "Latitude": 45.50758630143375,
+    "Longitude": -73.57909401878227,
+    "Picture": "./../buildingPics/trottier.jpg"
+  },
+  {
+    "Building": "Wilson Hall",
+    "Address": "3506 rue University",
+    "Latitude": 45.50653974272287,
+    "Longitude": -73.57684980343981,
+    "Picture": "./../buildingPics/wilson.jpg"
+  },
+  {
+    "Building": "Wong Building",
+    "Address": "3610 rue University",
+    "Latitude": 45.506767675792105,
+    "Longitude": -73.5786612457686,
+    "Picture": "./../buildingPics/wong.jpg"
+  },
+  {
+    "Building": "Sherbrooke 680",
+    "Address": "680 rue Sherbrooke Ouest",
+    "Latitude": 45.504705931815096,
+    "Longitude": -73.57301588650657,
+    "Picture": "./../buildingPics/680.png"
+  },
+  {
+    "Building": "University Centre (Students' Society of McGill University Building)",
+    "Address": "3480 rue Mctavish",
+    "Latitude": 45.50358207883546,
+    "Longitude": -73.57815534834275,
+    "Picture": "./../buildingPics/ssmu.jpg"
+  },
+  {
+    "Building": "Stewart Biology Building",
+    "Address": "1205 Dr Penfield Ave",
+    "Latitude": 45.502570100647155,
+    "Longitude": -73.58087436466558,
+    "Picture": "./../buildingPics/stewart.jpg"
+  },
+  {
+    "Building": "Nahum Gelber Law Library",
+    "Address": "3660 Peel st",
+    "Latitude": 45.503593149380684,
+    "Longitude": -73.58060386901656,
+    "Picture": "./../buildingPics/law.jpg"
+  }
+]
