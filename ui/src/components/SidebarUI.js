@@ -138,7 +138,7 @@ import {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.125 }}
               >
-                <span className="block text-m font-bold">BathroomBreak</span>
+                <span className="block text-m font-bold mx-20"> Bathroom Info</span>
               </motion.div>
             )}
           </div>
