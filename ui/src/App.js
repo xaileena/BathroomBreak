@@ -6,7 +6,7 @@ import MapUI from './components/MapUI';
 import { DefaultBathroomMarker } from './markers/defaultBathroomMarker';
 import { GenderNeutralBathroomMarker } from './markers/genderNeutralBathroomMarker';
 import { ShowerMarker } from './markers/showerMarker';
-
+import { AccessibleBathroomMarker } from './markers/accessibleBathroomMarker';
 import { HygieneProductsBathroomMarker } from './markers/hygieneProductBathroomMarker';
 
 function App() {
@@ -20,6 +20,7 @@ function App() {
                 {activeFilters.includes('genderNeutral') && <GenderNeutralBathroomMarker isVisible={true} />}
                 {activeFilters.includes('shower') && <ShowerMarker isVisible={true} />}
                 {activeFilters.includes('hygieneProducts') && <HygieneProductsBathroomMarker isVisible={true} />}
+                {activeFilters.includes('accessible') && <AccessibleBathroomMarker isVisible={true} />}
             </>
         );
     };
