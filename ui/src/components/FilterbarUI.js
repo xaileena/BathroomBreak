@@ -14,7 +14,6 @@ export function FilterbarUI({ activeFilters, setActiveFilters }) {
             setActiveFilters(updatedFilters);
         }
     };
-
     return (
         <div className="filterbar">
             <button onClick={() => toggleFilter('default')}>Clear Filters</button>
@@ -35,6 +34,12 @@ export function FilterbarUI({ activeFilters, setActiveFilters }) {
                 className={activeFilters.includes('hygieneProducts') ? 'active' : ''}
             >
                 Free Hygiene Products
+            </button>
+            <button
+                onClick={() => toggleFilter('accessible')}
+                className={activeFilters.includes('accessible') ? 'active' : ''}
+            >
+                Accessible Bathrooms
             </button>
         </div>
     );

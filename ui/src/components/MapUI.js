@@ -3,6 +3,7 @@ import { DefaultBathroomMarker } from '../markers/defaultBathroomMarker';
 import { GenderNeutralBathroomMarker } from '../markers/genderNeutralBathroomMarker';
 import { ShowerMarker } from '../markers/showerMarker';
 import { HygieneProductsBathroomMarker } from '../markers/hygieneProductBathroomMarker';
+import { AccessibleBathroomMarker } from '../markers/accessibleBathroomMarker';
 
 export default function MapUI({ activeFilters }) {
     const bounds = {
@@ -19,6 +20,7 @@ export default function MapUI({ activeFilters }) {
                 {activeFilters.includes('genderNeutral') && <GenderNeutralBathroomMarker isVisible={true}/>}
                 {activeFilters.includes('shower') && <ShowerMarker isVisible={true}/>}
                 {activeFilters.includes('hygieneProducts') && <HygieneProductsBathroomMarker isVisible={true}/>}
+                {activeFilters.includes('accessible') && < AccessibleBathroomMarker isVisible={true}/>}
             </>
         );
     };
